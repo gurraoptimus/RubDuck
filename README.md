@@ -26,7 +26,7 @@ This payload is designed to automate changing the desktop wallpaper on a Windows
 
 ## Download Payload inject.bin
 ```vbscript
-iwr -Uri https://raw.githubusercontent.com/gurraoptimus/RubDuck/main/inject.bin -OutFile C:\Users\User\Desktop\inject.bin
+iwr -Uri https://raw.githubusercontent.com/gurraoptimus/RubDuck/main/inject.bin -OutFile C:\Users\*\Desktop\inject.bin
 ```
 
 ---
